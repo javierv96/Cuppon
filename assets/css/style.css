@@ -1,0 +1,62 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav{
+   background-color: #28A745;
+   color: #fff;
+}
+
+nav a img{
+    height: 1.5rem;
+    width: 5.3rem;
+}
+
+h1{
+    color: #707070;
+}
+
+.card{
+    width: 18rem;
+    height: 23.75rem;
+}
+
+footer{
+    background-color: #fff;
+}
+
+.contacto{
+    background-color: #28A745;
+    color: #fff;
+}
+
+li i{
+    font-size: 3.75rem;
+}
+footer img{
+    height: 1.5rem;
+    width: 5.125rem;
+}
+
+.marker{
+    font-size: 1rem;
+    color: #707070;
+}
+
+.green{
+   color: #28A745;
+   font-size: 1.6rem;
+}
+.button{
+    width: 7rem;
+    height: 2.5rem;
+}
+
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.card img{
+    height: 11.875rem;
+}
